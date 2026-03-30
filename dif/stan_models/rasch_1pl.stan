@@ -10,7 +10,7 @@ parameters {
 model {
   // priors
   theta ~ normal(0, 1);
-  beta  ~ normal(0, 1);
+  beta  ~ normal(0, 3);
 
   // likelihood
   for (i in 1:N)

@@ -209,3 +209,5 @@ __marimo__/
 simulations/Chapter5/stan_models/*.exe
 dif/stan_models/rasch_1pl
 dif/stan_models/dif_rasch
+dif/stan_models/rasch_1pl.exe
+dif/stan_models/dif_rasch.exe

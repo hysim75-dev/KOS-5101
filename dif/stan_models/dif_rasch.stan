@@ -12,7 +12,7 @@ parameters {
 model {
   // priors
   theta ~ normal(0, 1);
-  beta  ~ normal(0, 1);
+  beta  ~ normal(0, 3);
   delta ~ normal(0, 1);   // weakly regularising; centred at no DIF
 
   // likelihood
