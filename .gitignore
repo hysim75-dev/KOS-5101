@@ -258,3 +258,5 @@ misc/process_model4.exe
 irt/update_nb.py
 irt/nb_extract.md
 irt/extract_nb.py
+simulations/miyamoto/claude_answer_1.pdf
+simulations/miyamoto/sem_pcm_with_prior.exe
